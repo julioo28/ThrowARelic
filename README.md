@@ -14,7 +14,7 @@ On lance un aimant au fond du canyon, on remonte une relique couverte de boue, o
 1. **S'entraîner** au banc de musculation pour gagner de la puissance de lancer.
 2. **Lancer l'aimant** avec une jauge de timing : plus la puissance est haute, plus on descend profond, vers des zones plus riches.
 3. **Remonter la relique**, avec des animations de descente et de remontée qui s'intensifient selon la rareté (ondes de choc, faisceau de lumière, ralenti).
-4. **Nettoyer** la relique (appui maintenu), puis **révélation** animée parmi 8 raretés, de *Commun* à *Secret* (0,1 %).
+4. **Nettoyer** la relique (appui maintenu), puis **révélation** animée parmi 9 raretés, de *Commun* (60 %) à *Cosmique* (1 chance sur 330 000).
 5. **Vendre** pour améliorer son équipement, ou **exposer** dans l'un des 6 musées (12 vitrines chacun) pour un revenu passif.
 
 ## 🧠 Ce que le projet montre

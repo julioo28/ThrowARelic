@@ -1,0 +1,7 @@
+# Notes de travail personnelles
+CLAUDE.md
+# Fichiers temporaires
+*.blend1
+__pycache__/
+.DS_Store
+Thumbs.db
